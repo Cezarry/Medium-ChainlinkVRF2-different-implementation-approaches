@@ -1,0 +1,19 @@
+{
+  "name": "medium-chainlinkvrf2-different-implementation-approaches",
+  "version": "1.0.0",
+  "description": "Chainlink VRF2 - Different implementation approaches",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Damian Kościelniak",
+  "license": "ISC",
+  "devDependencies": {
+    "@chainlink/contracts": "^0.4.2",
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.11.2"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3"
+  }
+}
